@@ -9,7 +9,7 @@
                 <div class="col-xs-12 col-sm-6 col-md-4 footer_newsletter">
                     <p class="footer_heading">NEWSLETTER SUBSCRIPTION</p>
                     <p>Stay up to date on the latest news from {{ property.name }}!</p>
-                    <form id="mktoForm_3264"></form>
+                    <form id="mktoForm_3265"></form>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-4">
                     <p class="footer_heading">FOLLOW US ON FACEBOOK</p>
@@ -54,7 +54,7 @@
                 }
             },
             mounted () {
-                window.MktoForms2.loadForm("//app-sj03.marketo.com", "561-LJY-710", 3264);
+                window.MktoForms2.loadForm("//app-sj03.marketo.com", "561-LJY-710", 3265);
             },
             created () {
                 this.dataLoaded = true;
