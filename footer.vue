@@ -17,8 +17,8 @@
                 </div>
             </div>
         </section>
-        <section class="footer_privacy ">
-            <div class="main_container row">
+        <section class="footer_privacy">
+            <div class="main_container">
                 <div>
                     <p class="footer_text">
                         <a :href="siteInfo.leasing" target="_blank">Leasing</a> |
