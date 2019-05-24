@@ -791,6 +791,7 @@ footer {
                 border-radius: 20px;
                 background-color: transparent;
                 font-size: 0;
+                color: $secondary_text;
             }
         }
         .slick-active button {
