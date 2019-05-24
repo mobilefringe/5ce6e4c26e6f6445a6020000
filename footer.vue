@@ -54,7 +54,7 @@
                 }
             },
             mounted () {
-                // window.MktoForms2.loadForm("//app-sj03.marketo.com", "561-LJY-710", 3265);
+                window.MktoForms2.loadForm("//app-sj03.marketo.com", "561-LJY-710", 3265);
             },
             created () {
                 this.dataLoaded = true;
