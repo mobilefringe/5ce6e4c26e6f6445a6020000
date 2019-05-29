@@ -924,10 +924,10 @@ footer {
     .fab {
         padding-left: 10px;
         font-size: 25px;
-        color: $primary;
+        color: ##505050;
         transition: color 0.3s ease;
         &:hover {
-            color: $accent;
+            color: $primary;
             cursor: pointer;
         }
     }
