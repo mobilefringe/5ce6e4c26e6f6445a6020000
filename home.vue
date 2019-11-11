@@ -63,9 +63,10 @@
                         speed: 1000
                     },
                     meta: {
-                        meta_title: "",
-                        meta_description: "",
-                        meta_keywords: ""
+                       meta_title: "",
+                       meta_description: "",
+                       meta_keywords: "",
+                       meta_image: ""
                     }
                 }
             },
